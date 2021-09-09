@@ -7,10 +7,10 @@ Detail:   Senior Student in UD.
   [GitHub Repository Link](https://github.com/DiouDai/Portfolio.github.io)  
 
 Change Log:  
-  * Add "To Do" List on Github.
+  * Add "TODO" List on Github.
   * Setup Visual Studio on my computer and learn to use it.
   * Unistall Eclipse.
  
-To Do:  
+TODO:  
 1. Complete Programming Assignment 1 for CISC361.
 2. Review C coding.
