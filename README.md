@@ -8,7 +8,7 @@ Detail:   Senior Student in UD.
 
 Change Log:  
   * Add "TODO" List on Github.
-  * Setup Visual Studio on my computer and learn to use it.
+  * Install Visual Studio on my computer and learn to use it.
   * Unistall Eclipse.
  
 TODO:  
