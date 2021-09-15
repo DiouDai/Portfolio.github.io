@@ -1,16 +1,20 @@
-# Portfolio.github.io
-Portfolio for Diou in CISC275.  
-Name:Diou Dai  
-Email:dioudai@udel.edu  
-Major:Computer Science  
+# Portfolio for Diou in CISC275.
+## ***Personal Information***  
+Name: Diou Dai  
+Email: dioudai@udel.edu  
+Major: Computer Science  
 Detail:   Senior Student in UD.  
   [GitHub Repository Link](https://github.com/DiouDai/Portfolio.github.io)  
 
-Change Log:  
+## ***Change Log***    
   * Add "TODO" List on Github.
-  * Install Visual Studio on my computer and learn to use it.
-  * Unistall Eclipse.
- 
-TODO:  
-1. Complete Programming Assignment 1 for CISC361.
-2. Review C coding.
+  * Add Strikethrough to "TODO" List
+  * Add "All bold and italic" 
+  * Add Headings
+## ***TODO:***  
+1.First week  
+  - - [x] Setup my Portfolio.  
+  
+2.Second week
+  - - [x] Know the difference between HTML and CSS.  
+  - 
