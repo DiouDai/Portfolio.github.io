@@ -5,7 +5,7 @@ Email: dioudai@udel.edu
 Major: Computer Science  
 Detail:   Senior Student in UD.  
   [GitHub Repository Link](https://github.com/DiouDai/Portfolio.github.io)  
-
+  [My Fisrt Site is Here](https://github.com/DiouDai/Diou-275-Site)
 ## ***Change Log***    
   * Add "TODO" List on Github.
   * Add Strikethrough to "TODO" List
