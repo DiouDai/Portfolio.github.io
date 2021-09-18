@@ -22,8 +22,8 @@ Detail:   Senior Student in UD.
  
 3.Third Week
   - - [x] Adding a picture at the site.
-  - - [x] Using CSS formating.
+  - - [x] Using CSS formating.  
  
-4. Fourth Week
+4.Fourth Week
   - - [ ] Adding a video or music
   - - [ ] Change the site's background
